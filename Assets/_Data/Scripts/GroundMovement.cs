@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GroundMovement : ZuMonoBehaviour
 {
-    [SerializeField] protected float groundSpeed = 10f;
+    [SerializeField] protected float groundSpeed = 5f;
     [SerializeField] protected bool canMove = false;
 
     protected override void Update()
