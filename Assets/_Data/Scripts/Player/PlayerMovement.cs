@@ -22,6 +22,8 @@ public class PlayerMovement : PlayerAbstract
     {
         this.moveDirection = InputManager.Instance.X_Input;
         //Lau Dai Tinh Ai add this line
+
+        //Lau Dai Tinh Ai write here first
     }
 
     protected virtual void Move()
