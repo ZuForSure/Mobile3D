@@ -34,5 +34,7 @@ public class PlayerMovement : PlayerAbstract
     protected virtual void Move()
     {
         this.playerCtrl.PlayerRB.AddForce(transform.parent.right * this.moveDirection * this.moveSpeed * Time.fixedDeltaTime);
+        //Zu Write 2 again
+
     }
 }
