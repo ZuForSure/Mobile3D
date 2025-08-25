@@ -11,7 +11,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.cinemachine": {
-      "version": "2.9.7",
+      "version": "2.10.3",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -38,13 +38,13 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {
-        "com.unity.mobile.android-logcat": "1.4.0",
+        "com.unity.mobile.android-logcat": "1.4.5",
         "com.unity.adaptiveperformance": "4.0.1",
-        "com.unity.mobile.notifications": "2.3.1"
+        "com.unity.mobile.notifications": "2.4.0"
       }
     },
     "com.unity.ide.rider": {
-      "version": "3.0.27",
+      "version": "3.0.36",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -69,14 +69,14 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.mobile.android-logcat": {
-      "version": "1.4.0",
+      "version": "1.4.5",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.mobile.notifications": {
-      "version": "2.3.1",
+      "version": "2.4.0",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -112,7 +112,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.textmeshpro": {
-      "version": "3.0.6",
+      "version": "3.0.7",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -121,7 +121,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.timeline": {
-      "version": "1.7.6",
+      "version": "1.7.7",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -142,7 +142,7 @@
       }
     },
     "com.unity.visualscripting": {
-      "version": "1.9.1",
+      "version": "1.9.4",
       "depth": 0,
       "source": "registry",
       "dependencies": {
