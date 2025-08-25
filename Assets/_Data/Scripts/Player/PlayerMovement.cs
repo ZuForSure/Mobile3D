@@ -24,6 +24,8 @@ public class PlayerMovement : PlayerAbstract
         //Lau Dai Tinh Ai add this line
 
         //Lau Dai Tinh Ai write here first
+
+        //Lau Dai Tinh Ai write here second
     }
 
     protected virtual void Move()
